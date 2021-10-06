@@ -1,8 +1,20 @@
-- Got blocked when integrating Firebase.
-- Integrated Material UI
-- State to manage list of todos
-- Props to pass down the text from the main component to the todo component
+# React Blogging App
 
-# Getting Started with Create React App
+## Description
 
-Npm Start
+- Utilized Firebase to manage data
+- Create todo
+- Delete todo
+- `useState`, `useEffect`
+
+## Installation
+
+To get the server up, run
+
+```bash
+NPM Start
+```
+
+## If i had more time i would change this
+
+- Add more styling
